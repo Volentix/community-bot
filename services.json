@@ -1,0 +1,35 @@
+{
+  "volentix_mongo": {
+        "connectionString": "mongodb://localhost:27017/{VolentixDB}"
+  },
+  "discord": {
+    "client_id": "",
+    "client_secret": "",
+    "reveal_token": "",
+    "welcome_list": [
+
+    ],
+    "tweets_channel_id": "",
+    "general_channel_id": "",
+    "news_channel_id": "",
+    "announcements_channel_id": "",
+    "welcome_channel_id": ""
+
+  },
+  "telegram": {
+    "chat_id": "",
+    "bot_token": "",
+    "news_channel": ""
+  },
+  "twitter": {
+        "consumer_key": "",
+        "consumer_secret": "",
+        "access_token": "",
+        "access_token_secret": ""
+  },
+  "steemit": {
+    "posting_key" : "",
+    "active_key" : ""
+  }
+
+}
